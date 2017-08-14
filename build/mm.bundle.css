@@ -6056,7 +6056,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
  * --------------------------------------------------
  */
 .item, .mm-grades-table .itemcenter {
-  border-color: #004a4f;
+  border-color: #dddddd;
   background-color: #ffffff;
   color: #3a3a3a;
   position: relative;
@@ -10366,7 +10366,7 @@ a.button {
   transition-duration: 0s; }
 
 .icon {
-  color: #626262; }
+  color: #a82d3b; }
   .icon.positive {
     color: #0064d2; }
   .icon.assertive {
@@ -10566,14 +10566,14 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #004c9f;
+  background-color: #f98012;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #f98012;
+    background-color: #007982;
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
@@ -12957,7 +12957,7 @@ li.mm-question-answer-incorrect,
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #004c9f;
+  background-color: #007982;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
