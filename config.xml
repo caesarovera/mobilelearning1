@@ -11,7 +11,8 @@
         Mobile Learning IF UMMI
     </description>
 
-    <author href="http://webifum.moodlecloud.com"
+    <author href="http://moodle.com" email="mobile@moodle.com">
+        Moodle Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
