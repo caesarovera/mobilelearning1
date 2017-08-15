@@ -2,17 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.webifum.mobilifum"
         versionCode = "20180"
         version   = "3.3.0">
-    <name>Moodle Mobile</name>
+    <name>MOBILIFUM</name>
 
     <description>
-        Moodle Mobile official app
+        Mobile Learning IF UMMI
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://webifum.moodlecloud.com"
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
